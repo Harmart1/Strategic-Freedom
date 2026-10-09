@@ -1,0 +1,17 @@
+{
+  "name": "Strategic Freedom | Public Affairs & Business Strategy",
+  "short_name": "Strategic Freedom",
+  "description": "Northern Ontario public relations, municipal affairs, campaign communications and business strategy.",
+  "start_url": "./index.html",
+  "display": "browser",
+  "background_color": "#f7f7f3",
+  "theme_color": "#102d3e",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
